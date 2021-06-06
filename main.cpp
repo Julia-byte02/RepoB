@@ -1,5 +1,6 @@
 #include "std.h"
 #include <stdio.h>
+//программа является учебной
 int main {
     int a,b;
     printf("Введите два разных целых числа:");
