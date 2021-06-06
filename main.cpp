@@ -10,5 +10,7 @@ int main {
 
     printf("Разность=%d", a-b);
 
+
     printf("Произведение=%d", a*b);
+    printf("Частное=%d", a/b);
 }
