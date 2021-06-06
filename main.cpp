@@ -9,4 +9,6 @@ int main {
     printf("Сумма=%d", a+b);
 
     printf("Разность=%d", a-b);
+
+    printf("Произведение=%d", a*b);
 }
