@@ -6,4 +6,6 @@ int main {
     scanf("%d%d", &a, &b);
 
     printf("Сумма=%d", a+b);
+
+    printf("Разность=%d", a-b);
 }
